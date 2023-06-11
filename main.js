@@ -18,7 +18,7 @@ let AciertaAudio = new Audio(`./sound/Acierta.mp3`);
 let GanadorAudio = new Audio(`./sound/Ganador.mp3`);
 let ErrorAudio = new Audio(`./sound/Error.mp3`);
 let PierdeAudio = new Audio(`./sound/Pierde.mp3`);
-let ClickAudio = new Audio(`./sound/Click.mp3`);
+let ClickAudio = new Audio(`./sound/Click.wav`);
 
 // Generación de números aleatorios
 let number = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8];
