@@ -3,4 +3,5 @@ Hola, soy Gustavo Fuentes. Actualmente me desarrollo en Frontend. Soy una person
 Frontend Developer | Javascript, HTML, Phyton, CSS
 
 Pueden comunicarse conmigo a través de: gustavofcontacto@gmail.com
+
 Mi portafolio: https://gustavofl1.github.io/MiPortafolio/
