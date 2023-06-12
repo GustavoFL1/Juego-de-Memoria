@@ -14,6 +14,12 @@ let mostrarMovimientos = document.getElementById("movimientos");
 let mostrarAciertos = document.getElementById("aciertos");
 let mostrarTiempo = document.getElementById("t-restante");
 
+let AciertaAudio = new Audio(`./Sound/Acierta.wav`);
+let GanadorAudio = new Audio(`./Sound/Ganador.wav`);
+let ErrorAudio = new Audio(`./Sound/Error.wav`);
+let PierdeAudio = new Audio(`./Sound/Pierde.wav`);
+let ClickAudio = new Audio(`./Sound/Click.wav`);
+
 let AciertaAudio = new Audio('https://GustavoFL1/Juego-de-Memoria/Sound/Acierta.wav');
 let GanadorAudio = new Audio('https://GustavoFL1/Juego-de-Memoria/Sound/Ganador.wav');
 let ErrorAudio = new Audio('https://GustavoFL1/Juego-de-Memoria/Sound/Error.wav');
