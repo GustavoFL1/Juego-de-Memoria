@@ -20,11 +20,11 @@ let ErrorAudio = new Audio(`./Sound/Error.wav`);
 let PierdeAudio = new Audio(`./Sound/Pierde.wav`);
 let ClickAudio = new Audio(`./Sound/Click.wav`);
 
-let AciertaAudio = new Audio('https://gustavofl1.github.io/Juego-de-Memoria/Sound/Acierta.wav');
-let GanadorAudio = new Audio('https://gustavofl1.github.io/Juego-de-Memoria/Sound/Ganador.wav');
-let ErrorAudio = new Audio('https://gustavofl1.github.io/Juego-de-Memoria/Sound/Error.wav');
-let PierdeAudio = new Audio('https://gustavofl1.github.io/Juego-de-Memoria/Sound/Pierde.wav');
-let ClickAudio = new Audio('https://gustavofl1.github.io/Juego-de-Memoria/Sound/Click.wav');
+let AciertaAudio = new Audio(`https://gustavofl1.github.io/Juego-de-Memoria/Sound/Acierta.wav`);
+let GanadorAudio = new Audio(`https://gustavofl1.github.io/Juego-de-Memoria/Sound/Ganador.wav`);
+let ErrorAudio = new Audio(`https://gustavofl1.github.io/Juego-de-Memoria/Sound/Error.wav`);
+let PierdeAudio = new Audio(`https://gustavofl1.github.io/Juego-de-Memoria/Sound/Pierde.wav`);
+let ClickAudio = new Audio(`https://gustavofl1.github.io/Juego-de-Memoria/Sound/Click.wav`);
 
 // Generación de números aleatorios
 let number = [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8];
